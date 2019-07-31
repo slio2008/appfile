@@ -20,7 +20,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://game.zptjsm.com/yjyl/hall/icon/icon64.png</string>
+                   <string>http://113.240.226.60:6060/app/logo.png</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -28,7 +28,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://game.zptjsm.com/yjyl/hall/icon/icon64.png</string>
+                   <string>http://113.240.226.60:6060/app/logo.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
